@@ -16,7 +16,7 @@ acronym,縮略字,
 ACT,澳大利亞首都特區,洲、國家/地區、城市名稱
 action,動作,
 action,操作,
-action hook,動作勾點,適用於程式開發
+action hook,動作勾點,適用於程式開發。
 activate,啟用,
 active,已啟用,
 active,使用中,
@@ -30,9 +30,9 @@ add-on,附加元件,
 addon domain,附加網域,
 Adelaide,阿得雷德,洲、國家/地區、城市名稱
 Aden,亞頓,洲、國家/地區、城市名稱
-admin bar,工具列,Admin Bar 是核心程式中的舊稱，新的同義字串是 Toolbar，即工具列，所以新舊版稱呼均一致性稱為「工具列」
+admin bar,工具列,Admin Bar 是核心程式中的舊稱，新的同義字串是 Toolbar，即工具列，所以新舊版稱呼均一致性稱為「工具列」。
 admin panel,管理面板,
-administrator,網站管理員,適用於 WordPress 預設使用者角色
+administrator,網站管理員,適用於 WordPress 預設使用者角色。
 Adobe,Adobe,
 Adobe Fonts,Adobe Fonts,
 Adobe Fonts,Adobe Fonts 網頁字型,
@@ -70,7 +70,7 @@ Apache,Apache,網頁伺服器名稱
 Apia,亞庇,洲、國家/地區、城市名稱
 Apple,Apple,
 Apple Music,Apple Music,線上影音串流服務名稱
-Application Pool,應用程式集區,適用於程式開發
+Application Pool,應用程式集區,適用於程式開發。
 apply,套用,
 approve,核准,
 Aqtau,阿克陶,洲、國家/地區、城市名稱
@@ -121,12 +121,12 @@ Australia,澳洲,洲、國家/地區、城市名稱
 Australian dollar,澳元,貨幣名稱
 authentication,驗證,
 authentication code,驗證碼,
-authenticator,驗證器,適用於不是產生兩步驟驗證碼的驗證程式
+authenticator,驗證器,適用於不是產生兩步驟驗證碼的驗證程式。
 authenticator,驗證碼產生器,
 authenticator app,驗證碼產生器 App,
-author,開發者,有時候 author 也會指「開發者」
-author,作者,適用於 WordPress 預設使用者角色
-author,作者,適用於內容作者
+author,開發者,有時候 author 也會指「開發者」。
+author,作者,適用於 WordPress 預設使用者角色。
+author,作者,適用於內容作者。
 automatic install,自動安裝,
 automatic installation,自動安裝,
 Automatically Install,自動安裝,
@@ -203,9 +203,9 @@ black list,封鎖清單,
 blacklist,封鎖清單,
 Blanc-Sablon,布郎薩布隆,洲、國家/地區、城市名稱
 Blantyre,布藍泰爾,洲、國家/地區、城市名稱
-block editor,區塊編輯器,適用於區塊編輯器及全站編輯相關內容
-block pattern,區塊版面配置,適用於區塊編輯器及全站編輯相關內容
-block type,區塊類型,適用於區塊編輯器及全站編輯相關內容
+block editor,區塊編輯器,適用於區塊編輯器及全站編輯相關內容。
+block pattern,區塊版面配置,適用於區塊編輯器及全站編輯相關內容。
+block type,區塊類型,適用於區塊編輯器及全站編輯相關內容。
 Blogger,Blogger,內容發佈平台名稱
 Boa Vista,博阿維斯塔島,洲、國家/地區、城市名稱
 Bogota,波哥大,洲、國家/地區、城市名稱
@@ -224,8 +224,8 @@ Bratislava,布拉提斯拉瓦,洲、國家/地區、城市名稱
 Brazilian real,巴西雷亞爾,貨幣名稱
 Brazzaville,布拉薩市,洲、國家/地區、城市名稱
 breadcrumb,導覽標記,
-break point,中斷點,適用於網頁設計
-breakpoint,中斷點,適用於網頁設計
+break point,中斷點,適用於網頁設計。
+breakpoint,中斷點,適用於網頁設計。
 Breton,布里敦文,語言名稱，介面中稱文不稱語
 Brisbane,布里斯本,洲、國家/地區、城市名稱
 Broken Hill,布羅肯希爾,洲、國家/地區、城市名稱
@@ -249,7 +249,7 @@ Bulgarian lev,保加利亞列弗,貨幣名稱
 bulk,批次,
 bulk action,批次操作,
 bulk actions,批次操作,
-bullet list,項目符號清單,適用於排版相關內容
+bullet list,項目符號清單,適用於排版相關內容。
 bundle,套件組合,
 bundle,搭售方案,
 bundle,方案,
@@ -262,10 +262,10 @@ button,按鈕,
 cache,快取,
 Cairo,開羅,洲、國家/地區、城市名稱
 Calcutta,加爾各答,洲、國家/地區、城市名稱
-call,呼叫,適用於程式開發
+call,呼叫,適用於程式開發。
 call to action,行動號召,
-callback,回呼,適用於程式開發
-caller,呼叫端,適用於程式開發
+callback,回呼,適用於程式開發。
+caller,呼叫端,適用於程式開發。
 call-to-action,行動號召,
 Cambodian,柬埔寨文,語言名稱，介面中稱文不稱語
 Cambodian riel,柬埔寨瑞爾,貨幣名稱
@@ -322,7 +322,7 @@ checkbox,核取方塊,
 checker,檢查程式,
 checklist,檢查清單,
 checkout,結帳,
-checkout,簽出,適用於 SVN、Git 或 GitHub
+checkout,簽出,適用於 SVN、Git 或 GitHub。
 Chicago,芝加哥,洲、國家/地區、城市名稱
 Chichewa,齊切瓦文,語言名稱，介面中稱文不稱語
 Chihuahua,赤瓦瓦,洲、國家/地區、城市名稱
@@ -343,27 +343,27 @@ Chungking,重慶,洲、國家/地區、城市名稱
 Church Slavic,古教會斯拉夫文,語言名稱，介面中稱文不稱語
 Chuuk,楚克島,洲、國家/地區、城市名稱
 Chuvash,楚瓦什文,語言名稱，介面中稱文不稱語
-circle,圓圈,適用於形狀
+circle,圓圈,適用於形狀。
 citation,引文,
 CJK Decimal,中日韓文小數,語言名稱，介面中稱文不稱語
 CJK Ideographic,中日韓表意字元,語言名稱，介面中稱文不稱語
 classic,舊式,
 classic,傳統,
 classic editor,傳統編輯器,
-click,點擊,操作鍵盤、滑鼠及螢幕
+click,點擊,適用於操作鍵盤、滑鼠及螢幕。
 client,用戶端,
 client,客戶,
 Clubhouse,Clubhouse,社交網路服務平台名稱
-CMS,CMS,一般來說，CMS 會是 Content Management System (內容管理系統) 的縮寫
+CMS,CMS,一般來說，CMS 會是 Content Management System (內容管理系統) 的縮寫。
 Cocos,可可斯群島,洲、國家/地區、城市名稱
 Code,程式碼,
 code editor,程式碼編輯器,
 code snippet,程式碼片段,
-codebase,程式碼基底,適用於程式開發
+codebase,程式碼基底,適用於程式開發。
 collaborate,協同合作,
 collaboration,協同合作,
 collapse,收合,
-collation,定序,適用於程式開發及資料庫
+collation,定序,適用於程式開發。及資料庫
 Colombian peso,哥倫比亞披索,貨幣名稱
 Colombo,可倫坡,洲、國家/地區、城市名稱
 colon,冒號,適用於標點符號 :
@@ -387,7 +387,7 @@ configure,組態,
 confirm,確認,
 Congolese franc,剛果法郎,貨幣名稱
 connection type,連線類型,
-constant,常數,適用於程式開發
+constant,常數,適用於程式開發。
 constructor,建構函式,
 contact form,聯絡表單,
 container,容器,
@@ -395,9 +395,9 @@ content,內容,
 content delivery network,內容傳遞網路,
 Content Management System,內容管理系統,
 continue,繼續,
-contributor,投稿者,適用於 WordPress 預設使用者角色
+contributor,投稿者,適用於 WordPress 預設使用者角色。
 contributor,參與者,
-control,控制項,適用於程式開發
+control,控制項,適用於程式開發。
 control,控制,
 Cookie,Cookie,適用於搜尋引擎及瀏覽器相關內容
 Cookies,Cookie,適用於搜尋引擎及瀏覽器相關內容
@@ -412,19 +412,19 @@ Costa Rica,哥斯大黎加,洲、國家/地區、城市名稱
 Costa Rican col&oacute;n,哥斯大黎加科郎,貨幣名稱
 counter,計數器,
 coupon code,優惠代碼,
-CPT,CPT,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫
-CPT,自訂內容類型,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫
+CPT,CPT,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫。
+CPT,自訂內容類型,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫。
 crawl,檢索,
 crawler,檢索器,
 create,建立,
 Creative Commons,創用 CC,
-credentials,認證,
+credential,認證,
 Cree,克里文,語言名稱，介面中稱文不稱語
 Creston,克雷斯頓,洲、國家/地區、城市名稱
 Croatian,克羅埃西亞文,語言名稱，介面中稱文不稱語
 Croatian kuna,克羅埃西亞庫納,貨幣名稱
 crop,裁剪,
-CSS,CSS,CSS 是 Cascading Style Sheets (階層式樣式表) 的縮寫
+CSS,CSS,CSS 是 Cascading Style Sheets (階層式樣式表) 的縮寫。
 CTA,行動號召,
 Cuban convertible peso,古巴可兌換披索,貨幣名稱
 Cuban peso,古巴披索,貨幣名稱
@@ -493,7 +493,7 @@ directive,指示詞,
 directory,目錄,
 disable,停用,
 disassemble,反向組譯,
-disc,圓點,適用於形狀
+disc,圓點,適用於形狀。
 discard,捨棄,
 discount,折扣,
 display,顯示,
@@ -533,7 +533,7 @@ East Caribbean dollar,東加勒比元,貨幣名稱
 Easter,復活節島,洲、國家/地區、城市名稱
 eBay,eBay,
 eCommerce,電子商務,
-editor,編輯,適用於 WordPress 預設使用者角色，同時也適用於其他狀況
+editor,編輯,適用於 WordPress 預設使用者角色。，同時也適用於其他狀況
 editor,編輯器,
 editor style,編輯器樣式,
 Edmonton,艾德蒙頓,洲、國家/地區、城市名稱
@@ -616,14 +616,14 @@ file,檔案,
 File Transfer Protocol,檔案傳輸通訊協定,
 filename,檔案名稱,
 filter,濾鏡,適用於多媒體處理
-filter,篩選器,適用於程式開發
+filter,篩選器,適用於程式開發。
 filter,篩選,
 filter,篩選條件,
 filter hook,篩選器勾點,適用於區塊編輯器、全站編輯相關內容
 Finnish,芬蘭文,語言名稱，介面中稱文不稱語
-flag,標幟,適用於程式開發
+flag,標幟,適用於程式開發。
 flag,標幟,
-flag,旗標,適用於程式開發
+flag,旗標,適用於程式開發。
 flag,標示,
 flip horizontal,水平翻轉,
 flip vertical,垂直翻轉,
@@ -655,11 +655,11 @@ Frisian,夫里斯蘭文,語言名稱，介面中稱文不稱語
 Friulian,佛裡烏裡文,語言名稱，介面中稱文不稱語
 front end,前端,
 front-end,前端,
-FTP,FTP,適用於通訊協定，FTP 是 File Transfer Protocol (檔案傳輸通訊協定) 的縮寫
+FTP,FTP,適用於通訊協定，FTP 是 File Transfer Protocol (檔案傳輸通訊協定) 的縮寫。
 Fulah,富拉赫文,語言名稱，介面中稱文不稱語
 full site editing,全站編輯,適用於區塊編輯器、全站編輯相關內容
 Funafuti,富納富提,洲、國家/地區、城市名稱
-function,函式,適用於程式開發
+function,函式,適用於程式開發。
 funnel,漏斗,
 Gaborone,嘉柏隆里,洲、國家/地區、城市名稱
 Galapagos,加拉巴哥群島,洲、國家/地區、城市名稱
@@ -669,7 +669,7 @@ Gambian dalasi,甘比亞達拉西,貨幣名稱
 Gambier,甘比爾群島,洲、國家/地區、城市名稱
 Ganda,干達文,語言名稱，介面中稱文不稱語
 Gaza,加薩,洲、國家/地區、城市名稱
-GDPR,GDPR,GDPR 是 General Data Protection Regulation (一般資料保護規定) 的縮寫
+GDPR,GDPR,GDPR 是 General Data Protection Regulation (一般資料保護規定) 的縮寫。
 General Data Protection Regulation,一般資料保護規定,
 General Public License,通用公眾授權,
 generator,產生器,
@@ -735,7 +735,7 @@ Google Slides,Google Slides,
 Google+,Google+,社交網路服務平台名稱
 Goolge Business Profiles,Google 商家檔案,
 Goose Bay,古斯貝,洲、國家/地區、城市名稱
-GPL,GPL,GPL 是 GNU General Public License (GNU 通用公眾授權) 的縮寫
+GPL,GPL,GPL 是 GNU General Public License (GNU 通用公眾授權) 的縮寫。
 Grand Turk,格蘭土克,洲、國家/地區、城市名稱
 grant,授予,
 Gravatar,Gravatar,個人頭像服務名稱
@@ -800,12 +800,12 @@ hit rate,命中率,
 hit ratio,命中率,
 Ho Chi Minh,胡志明市,洲、國家/地區、城市名稱
 Hobart,霍巴特,洲、國家/地區、城市名稱
-hold,按住,操作鍵盤、滑鼠及螢幕
+hold,按住,適用於操作鍵盤、滑鼠及螢幕。
 Honduran lempira,宏都拉斯倫皮拉,貨幣名稱
 Hong Kong,香港,洲、國家/地區、城市名稱
 Hong Kong dollar,港元,貨幣名稱
 Honolulu,檀香山,洲、國家/地區、城市名稱
-hook,勾點,適用於程式開發
+hook,勾點,適用於程式開發。
 horizontal,水平,
 Hovd,哈霍德,洲、國家/地區、城市名稱
 hover,游標暫留,
@@ -833,8 +833,8 @@ import,匯入,
 inactive,未啟用,
 inactive,非使用中,
 indent,縮排,
-index,索引,適用於搜尋引擎相關內容
-index,進行索引,適用於搜尋引擎相關內容
+index,索引,適用於搜尋引擎相關內容。
+index,進行索引,適用於搜尋引擎相關內容。
 index,指數,
 Indian,印度,洲、國家/地區、城市名稱
 Indian rupee,印度盧比,貨幣名稱
@@ -982,7 +982,7 @@ lazy load,延遲載入,
 Lebanese pound,黎巴嫩鎊,貨幣名稱
 left arrow key,向左鍵,鍵盤按鍵名稱
 Left to Right,從左至右,文字方向
-left-click,點擊左鍵,操作鍵盤、滑鼠及螢幕
+left-click,點擊左鍵,適用於操作鍵盤、滑鼠及螢幕。
 legacy,舊版,
 legacy,舊式,
 legacy,傳統,
@@ -1028,7 +1028,7 @@ London,倫敦,洲、國家/地區、城市名稱
 Longyearbyen,龍宜爾比恩,洲、國家/地區、城市名稱
 look up,查詢,
 lookup,查詢,
-loop,迴圈,適用於程式開發
+loop,迴圈,適用於程式開發。
 loopback,回送,
 loopback address,迴路位址,
 Lord Howe,羅豪,洲、國家/地區、城市名稱
@@ -1040,8 +1040,8 @@ Lower Greek,小寫希臘字母,語言名稱，介面中稱文不稱語
 Lower Princes,下太子區,洲、國家/地區、城市名稱
 Lower Roman,小寫羅馬數字,語言名稱，介面中稱文不稱語
 Lower Sorbian,下索布文,語言名稱，介面中稱文不稱語
-LTR,LTR,文字方向 Left to Right (從左到右) 的縮寫，例如英文、繁體中文
-LTR,從左至右,文字方向 Left to Right (從左到右) 的縮寫，例如英文、繁體中文
+LTR,LTR,文字方向 Left to Right (從左到右) 的縮寫，例如英文、繁體中文。
+LTR,從左至右,文字方向 Left to Right (從左到右) 的縮寫，例如英文、繁體中文。
 Luanda,盧安達,洲、國家/地區、城市名稱
 Luba-Katanga,盧巴卡丹加文,語言名稱，介面中稱文不稱語
 Lubumbashi,羅彭巴布,洲、國家/地區、城市名稱
@@ -1119,7 +1119,7 @@ media uploader,媒體上傳程式,
 Meetup,Meetup 小聚,
 Melbourne,墨爾本,洲、國家/地區、城市名稱
 memory,記憶體,
-memory leak,記憶體流失,適用於程式開發。意指當程式配置了可供使用的記憶體，但在執行完成後未釋放這些配置的記憶體的情況。
+memory leak,記憶體流失,適用於程式開發。。意指當程式配置了可供使用的記憶體，但在執行完成後未釋放這些配置的記憶體的情況。
 Mendoza,門多薩,洲、國家/地區、城市名稱
 Menominee,梅諾米尼,洲、國家/地區、城市名稱
 menu,選單,適用於資訊系統
@@ -1227,7 +1227,7 @@ Novosibirsk,新西伯利亞,洲、國家/地區、城市名稱
 NSW,新南威爾斯省,洲、國家/地區、城市名稱
 numeric,整數,
 Nuuk,努克,洲、國家/地區、城市名稱
-object,物件,適用於程式開發
+object,物件,適用於程式開發。
 object cache,物件快取,
 Occitan,奧西坦文,語言名稱，介面中稱文不稱語
 oEmbed,oEmbed,
@@ -1251,14 +1251,14 @@ option,選項,
 Oral,烏拉爾,洲、國家/地區、城市名稱
 Oriya,歐利亞文,語言名稱，介面中稱文不稱語
 Oromo,奧羅蒙文,語言名稱，介面中稱文不稱語
-OS,作業系統,一般來說，OS 會是 Content Management System (作業系統) 的縮寫
+OS,作業系統,一般來說，OS 會是 Content Management System (作業系統) 的縮寫。
 Oslo,奧斯陸,洲、國家/地區、城市名稱
 Ossetian,奧塞提文,語言名稱，介面中稱文不稱語
 Ossetic,奧塞提文,語言名稱，介面中稱文不稱語
 Ouagadougou,瓦加杜古,洲、國家/地區、城市名稱
 outdent,凸排,
 outline,大綱,
-outline,外框,適用於網頁設計
+outline,外框,適用於網頁設計。
 outline view,大綱檢視,適用於檢視方式名稱
 overlay,覆疊,
 overview,概觀,
@@ -1298,7 +1298,7 @@ passkey,密碼金鑰,Google 官方譯文
 password protected,受密碼保護,
 passwordless,無密碼,
 path,路徑,
-pattern,區塊版面配置,適用於區塊編輯器及全站編輯相關內容
+pattern,區塊版面配置,適用於區塊編輯器及全站編輯相關內容。
 payment gateway,付款入口,
 PChome,PChome,
 PChome,網路家庭,
@@ -1307,7 +1307,7 @@ pending,待審閱,適用於各種發佈狀態
 period,句號,適用於標點符號 .
 period,週期,
 period,期間,
-permalink,永久連結,Google 台灣官方譯文，適用於搜尋引擎相關內容及核心程式
+permalink,永久連結,Google 台灣官方譯文，適用於搜尋引擎相關內容及核心程式。
 permanent,永久,
 permanently,永久,
 permission,權限,
@@ -1348,7 +1348,7 @@ Polish,波蘭文,語言名稱，介面中稱文不稱語
 Polish z&#x142;oty,波蘭茲羅提,貨幣名稱
 Ponape,波納佩島,洲、國家/地區、城市名稱
 Pontianak,坤甸,洲、國家/地區、城市名稱
-pool,集區,適用於程式開發
+pool,集區,適用於程式開發。
 port,連接埠,適用於各種裝置
 port,通訊埠,適用於通訊協定
 Port Moresby,莫爾斯貝港,洲、國家/地區、城市名稱
@@ -1379,7 +1379,7 @@ preload list,預載清單,
 preloader,預先載入程式,
 preset,預設,
 preset,預設集,
-press,按下,操作鍵盤、滑鼠及螢幕
+press,按下,適用於操作鍵盤、滑鼠及螢幕。
 previous page,上一頁,
 privacy policy,隱私權政策,
 processor,處理器,
@@ -1395,7 +1395,7 @@ protection,保護,
 protocol,通訊協定,
 publish,發佈,
 Puerto Rico,波多黎各,洲、國家/地區、城市名稱
-pull request,提取要求,適用於程式開發及 Git 相關內容
+pull request,提取要求,適用於程式開發。及 Git 相關內容
 Punjabi,旁遮普文,語言名稱，介面中稱文不稱語
 Punta Arenas,蓬塔阿雷納斯,洲、國家/地區、城市名稱
 Pure CSS,Pure CSS,
@@ -1431,15 +1431,15 @@ Regina,雷吉納,洲、國家/地區、城市名稱
 register,註冊,
 registered trademark,註冊商標,
 registration,註冊,
-regular expression,規則運算式,適用於程式開發
+regular expression,規則運算式,適用於程式開發。
 regular price,原價,
 relative path,相對路徑,
 remove,移除,
 render,轉譯,
-render,轉譯,適用於程式開發
+render,轉譯,適用於程式開發。
 rep,代表,在外掛目錄或佈景主題中，Rep 通常是 Representative (代表) 的縮寫。舉例來說，Support rep 或 Support Representative 即為「技術支援代表」。
 repo,存放庫,在外掛目錄及佈景主題目錄中， repo 是 Repository (存放庫) 的縮寫。
-repository,存放庫,適用於 SVN、Git 或 GitHub
+repository,存放庫,適用於 SVN、Git 或 GitHub。
 representative,代表,範例：Sales Representative 為「銷售代表」。
 request,要求,
 requirement,需求,
@@ -1452,22 +1452,22 @@ responsive wed design,回應式網頁設計,
 result set,結果集,
 Reunion,留尼旺,洲、國家/地區、城市名稱
 Reusable Block,可重複使用區塊,
-reusable block,可重複使用區塊,適用於區塊編輯器及全站編輯相關內容
+reusable block,可重複使用區塊,適用於區塊編輯器及全站編輯相關內容。
 reverse proxy,反向 Proxy,
 revision,內容修訂,
 revoke,撤銷,
 rewrite,重新寫入,
 rewrite rule,重新寫入規則,
 Reykjavik,雷克雅維克,洲、國家/地區、城市名稱
-rich snippet,複合式搜尋結果,
+rich snippet,複合式搜尋結果,舊稱為「複合式摘要」，但是 Rich Result 已取代 Rich Card 及 Rich Snippet 這 2 個字彙，因此使用與 Rich Result 一樣的「複合式搜尋結果」譯文。
 Riga,里加,洲、國家/地區、城市名稱
 right arrow key,向右鍵,鍵盤按鍵名稱
 Right to Left,從右至左,文字方向
-right-click,點擊右鍵,操作鍵盤、滑鼠及螢幕
+right-click,點擊右鍵,適用於操作鍵盤、滑鼠及螢幕。
 Rio Branco,里約布蘭科,洲、國家/地區、城市名稱
 Rio Gallegos,里奧加耶戈斯,洲、國家/地區、城市名稱
 Riyadh,利雅德,洲、國家/地區、城市名稱
-robot,漫遊器,Google 台灣官方譯文，適用於搜尋引擎相關內容
+robot,漫遊器,Google 台灣官方譯文，適用於搜尋引擎相關內容。
 Rohingya,羅興亞文,語言名稱，介面中稱文不稱語
 Romanian,羅馬尼亞文,語言名稱，介面中稱文不稱語
 Romanian leu,羅馬尼亞列伊,貨幣名稱
@@ -1478,8 +1478,8 @@ routine,常式,
 row,列,
 row,資料列,
 RSS,RSS,
-RTL,RTL,文字方向 Right to Left (從右到左) 的縮寫，例如阿拉伯文、希伯來文
-RTL,從右至左,文字方向 Right to Left (從右到左) 的縮寫，例如阿拉伯文、希伯來文
+RTL,RTL,文字方向 Right to Left (從右到左) 的縮寫，例如阿拉伯文、希伯來文。
+RTL,從右至左,文字方向 Right to Left (從右到左) 的縮寫，例如阿拉伯文、希伯來文。
 rule set,規則集,
 rule type,規則型別,
 ruleset,規則集,
@@ -1487,7 +1487,7 @@ runtime,執行階段,
 Russian,俄文,語言名稱，介面中稱文不稱語
 Russian ruble,俄羅斯盧布,貨幣名稱
 Rwandan franc,盧安達法郎,貨幣名稱
-RWD,RWD,RWD 是 Responsive Wed Design (回應式網頁設計) 的縮寫
+RWD,RWD,RWD 是 Responsive Wed Design (回應式網頁設計) 的縮寫。
 S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra,聖多美和普林西比多布拉,貨幣名稱
 Saigon,胡志明市,洲、國家/地區、城市名稱
 Saint Helena pound,聖赫勒拿島鎊,貨幣名稱
@@ -1530,9 +1530,9 @@ screen option,顯示項目設定,
 screen reader,螢幕閱讀器,
 screenshot,螢幕擷圖,
 script,指令碼,
-search box,搜尋框,適用於搜尋引擎相關內容
-search engine,搜尋引擎,適用於搜尋引擎相關內容
-search engine optimization,搜尋引擎最佳化,適用於搜尋引擎相關內容，SEO 是 Search Engine Optimization (Search Engine Optimization) 的縮寫
+search box,搜尋框,適用於搜尋引擎相關內容。
+search engine,搜尋引擎,適用於搜尋引擎相關內容。
+search engine optimization,搜尋引擎最佳化,適用於搜尋引擎相關內容，SEO 是 Search Engine Optimization (Search Engine Optimization) 的縮寫。
 section,區段,
 security,安全性,
 security key,安全金鑰,
@@ -1646,14 +1646,14 @@ Spanish (Puerto Rico),西班牙文 (波多黎各),語言名稱，介面中稱文
 Spanish (Spain),西班牙文 (西班牙),語言名稱，介面中稱文不稱語
 Spanish (Uruguay),西班牙文 (烏拉圭),語言名稱，介面中稱文不稱語
 Spanish (Venezuela),西班牙文 (委內瑞拉),語言名稱，介面中稱文不稱語
-spider,自動尋檢程式,Google 台灣官方譯文，適用於搜尋引擎相關內容
+spider,自動尋檢程式,Google 台灣官方譯文，適用於搜尋引擎相關內容。
 Spotify,Spotify,線上影音串流服務名稱
-square,正方形,適用於形狀
+square,正方形,適用於形狀。
 Srednekolymsk,中科雷姆斯克,洲、國家/地區、城市名稱
 Sri Lankan rupee,斯里蘭卡盧比,貨幣名稱
 ssl certificate,SSL 憑證,
-SSO,SSO,SSO 通常是 Single Sign-On (單一登入) 的縮寫
-SSO,單一登入,SSO 通常是 Single Sign-On (單一登入) 的縮寫
+SSO,SSO,SSO 通常是 Single Sign-On (單一登入) 的縮寫。
+SSO,單一登入,SSO 通常是 Single Sign-On (單一登入) 的縮寫。
 St Barthelemy,聖巴泰勒米,洲、國家/地區、城市名稱
 St Helena,聖赫勒拿島,洲、國家/地區、城市名稱
 St Johns,聖約翰,洲、國家/地區、城市名稱
@@ -1686,7 +1686,7 @@ style variation,樣式變化,適用於 WordPress 全站編輯
 subdomain,子網域,
 subscribe,訂閱,適用於訂閱內容
 subscribe,約期授權,適用於線上服務、軟體的授權方式說明
-subscriber,訂閱者,適用於 WordPress 預設使用者角色
+subscriber,訂閱者,適用於 WordPress 預設使用者角色。
 subscription,訂閱,適用於訂閱內容
 subscription,約期授權,適用於線上服務、軟體的授權方式說明
 subtitle,子標題,
@@ -1725,7 +1725,7 @@ table of contents,內容目錄,
 tag,標籤,
 tag,標示,
 tag base,標籤目錄起點,
-Tag ID,代碼 ID,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics
+Tag ID,代碼 ID,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics。
 Tagalog,塔加拉族文,語言名稱，介面中稱文不稱語
 tagline,網站說明,
 Tahiti,大溪地,洲、國家/地區、城市名稱
@@ -1781,8 +1781,8 @@ TinyMCE,TinyMCE,
 Tirane,地拉那,洲、國家/地區、城市名稱
 Tiraspol,提拉斯浦,洲、國家/地區、城市名稱
 title,標題,
-TLD,頂層網域,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫
-TLD,TLD,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫
+TLD,頂層網域,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫。
+TLD,TLD,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫。
 TOC,TOC,
 TOC,目錄,
 TOC,內容目錄,
@@ -1800,7 +1800,7 @@ Tortola,托托拉,洲、國家/地區、城市名稱
 track,追蹤,
 trackback,引用通知,
 tracker,追蹤器,
-tracking code,追蹤程式碼,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics
+tracking code,追蹤程式碼,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics。
 trademark,商標,
 Traditional Chinese,繁體中文,語言名稱，介面中稱文不稱語
 Traditional Chinese Formal,繁體中文 (正式),語言名稱，介面中稱文不稱語
@@ -1910,7 +1910,7 @@ Vietnamese &#x111;&#x1ed3;ng,越南盾,貨幣名稱
 view all,檢視全部,
 view mode,檢視模式,
 viewer,檢視器,
-viewport,檢視區,適用於網頁設計
+viewport,檢視區,適用於網頁設計。
 Vilnius,維爾紐斯,洲、國家/地區、城市名稱
 Vimeo,Vimeo,線上影音串流服務名稱
 Vincennes,湯森斯,洲、國家/地區、城市名稱
@@ -1959,8 +1959,8 @@ WordPress Core,WordPress 核心程式,
 WordPress Multisite,WordPress 多站網路,Multisite 是舊版詞彙，與新版的 Network 統一譯文為「多站網路」
 WordPress Network,WordPress 多站網路,Network 是新版詞彙，與舊版的 Multisite 統一譯文為「多站網路」
 WordPress.com,WordPress.com,
-WYSIWYG,WYSIWYG,What You See Is What You Get (所見即所得) 的縮寫
-WYSIWYG,所見即所得,What You See Is What You Get (所見即所得) 的縮寫
+WYSIWYG,WYSIWYG,What You See Is What You Get (所見即所得) 的縮寫。
+WYSIWYG,所見即所得,What You See Is What You Get (所見即所得) 的縮寫。
 Xhosa,廓薩文,語言名稱，介面中稱文不稱語
 XML,XML,
 XML-RPC,XML-RPC,
@@ -2053,9 +2053,9 @@ serif,有襯線字型,字型的基本外觀分類，英文字型如 Times New Ro
 sans serif,無襯線字型,字型的基本外觀分類，英文字型如 Arial，繁體中文字型如 Noto Sans TC。
 reverse lookup,反向對應,
 Fully Qualified Domain Name,完整網域名稱,
-FQDN,FQDN,FQDN 是 Fully Qualified Domain Name (完整網域名稱) 的縮寫
+FQDN,FQDN,FQDN 是 Fully Qualified Domain Name (完整網域名稱) 的縮寫。
 Domain Name System,網域名稱系統,
-DNS,DNS,DNS 是 Domain Name System (網域名稱系統) 的縮寫
+DNS,DNS,DNS 是 Domain Name System (網域名稱系統) 的縮寫。
 resolver,解析程式,
 paywall,付費牆,
 paywall,需要付費,
@@ -2070,15 +2070,15 @@ transactional email ,觸發式電子郵件,
 edit,編輯,
 validate,驗證,
 validation,驗證,
-expression,運算式,適用於程式開發
+expression,運算式,適用於程式開發。
 privacy statement,隱私權聲明,
 statement,聲明,
-statement,陳述式,適用於程式開發
+statement,陳述式,適用於程式開發。
 release candidate,發行候選版本,
-RC,RC,RC 通常是 Release Candidate (發行候選版本) 的縮寫
+RC,RC,RC 通常是 Release Candidate (發行候選版本) 的縮寫。
 typo,拼寫錯誤,
 Threads,Threads,社交網路服務平台名稱
-assertion,判斷提示,適用於程式開發
+assertion,判斷提示,適用於程式開發。
 override,覆寫,
 retrieve,擷取,
 defer,延遲,
@@ -2097,10 +2097,10 @@ blockquote,段落引用,
 security token,安全性憑證,
 Generic top-level domain,通用頂層網域,
 registry,網域註冊管理機構,如果 registry 用於與網域註冊相關的內容，有一定的機會是指「網域註冊管理機構」。
-gTLD,gTLD,Generic top-level domain (通用頂層網域) 的縮寫
-gTLD,通用頂層網域,Generic top-level domain (通用頂層網域) 的縮寫
-ccTLD,ccTLD,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫
-ccTLD,國家/地區代碼頂層網域,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫
+gTLD,gTLD,Generic top-level domain (通用頂層網域) 的縮寫。
+gTLD,通用頂層網域,Generic top-level domain (通用頂層網域) 的縮寫。
+ccTLD,ccTLD,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫。
+ccTLD,國家/地區代碼頂層網域,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫。
 Country code top-level-domain,國家/地區代碼頂層網域,
 decentralize,分散式,
 centralize,集中式,
@@ -2128,7 +2128,7 @@ playlist,播放清單,
 threshold,臨界值,
 threshold,閾值,「閾值」對一般人來說比較不好理解，一般可以使用「臨界值」
 comma separated values,逗點分隔值,檔案格式的一種，縮寫為 CSV
-CSV,CSV,CSV 是 Comma Separated Values (逗點分隔值) 的縮寫，檔案格式的一種
+CSV,CSV,CSV 是 Comma Separated Values (逗點分隔值) 的縮寫。，檔案格式的一種
 file type,檔案類型,
 file type association,檔案類型關聯,
 acquire,擷取,
@@ -2194,8 +2194,8 @@ whitespace,空白字元,
 non-whitespace,非空白字元,
 address book,通訊錄,
 one-time password,單次有效密碼,
-OTP,OTP,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫
-OTP,單次有效密碼,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫
+OTP,OTP,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫。
+OTP,單次有效密碼,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫。
 Gaelic,蓋爾文,語言名稱，介面中稱文不稱語
 Hawaiian,夏威夷文,語言名稱，介面中稱文不稱語
 Hmong,白苗文,語言名稱，介面中稱文不稱語
@@ -2277,7 +2277,7 @@ check,檢查,
 impression,曝光次數,適用於搜尋引擎及網路廣告相關內容
 position,排名,適用於搜尋引擎及網路廣告相關內容
 click,點擊次數,適用於搜尋引擎及網路廣告相關內容
-instantiate,具現化,適用於程式開發
+instantiate,具現化,適用於程式開發。
 fine-tune,微調,
 fine tune,微調,
 blockchain,區塊鏈,
@@ -2294,7 +2294,7 @@ updater,更新程式,
 sales funnel ,行銷漏斗,
 Core Web Vitals,網站使用體驗核心指標,這是 Google 推廣的網站評估指標，請使用 Google 官方譯文。
 compiler,編譯器,
-CWV,CWV,一般來說，CWV 會是 Core Web Vitals (網站使用體驗核心指標) 的縮寫
+CWV,CWV,一般來說，CWV 會是 Core Web Vitals (網站使用體驗核心指標) 的縮寫。
 Kyrgyz,吉爾吉斯文,語言名稱，介面中稱文不稱語
 Farsi,波斯文,語言名稱，介面中稱文不稱語
 multilevel,多層,
@@ -2325,11 +2325,11 @@ strong password,強式密碼,
 client-side,用戶端,
 server-side,伺服器端,
 clickthrough rate,點閱率,
-CTR,CTR,一般來說，CTR 會是 clickthrough rate (點閱率) 的縮寫
+CTR,CTR,一般來說，CTR 會是 clickthrough rate (點閱率) 的縮寫。
 bare metal,裸機,
 bare metal,裸機電腦,
 best practice,最佳做法,
-LCP,LCP,LCP 是 Largest Contentful Paint (最大內容繪製) 的縮寫
+LCP,LCP,LCP 是 Largest Contentful Paint (最大內容繪製) 的縮寫。
 Largest Contentful Paint,最大內容繪製,
 domain forwarding,網域轉址,
 email forwarding,電子郵件轉寄,
@@ -2340,14 +2340,14 @@ grave accent,抑音符號,
 single-byte,單位元組,
 double-byte,雙位元組,
 byte,位元組,
-TTFB,FTTB,一般來說，FTTB 會是 Fisrt Time to Byte (第一個位元組時間) 的縮寫
+TTFB,FTTB,一般來說，FTTB 會是 Fisrt Time to Byte (第一個位元組時間) 的縮寫。
 Time to First Byte,第一個位元組時間,
 truncate,截斷,
 intercept,攔截,
 interceptor,攔截器,
 Headless CMS,無周邊內容管理系統,來自 Adobe 的譯文
 Cross-origin resource sharing,跨源資源共享,
-CORS,CORS,一般來說，CORS 會是 Cross-origin resource sharing (跨源資源共享) 的縮寫
+CORS,CORS,一般來說，CORS 會是 Cross-origin resource sharing (跨源資源共享) 的縮寫。
 code review,程式碼檢閱,
 handle,控制代碼,
 handler,處理常式,
@@ -2523,18 +2523,65 @@ Turks and Caicos Islands,土克斯及開科斯群島,洲、國家/地區、城�
 Tuvalu,吐瓦魯,洲、國家/地區、城市名稱
 offload,卸載,
 worker,背景工作,
-INP,INP,INP 是 Interaction to Next Paint (與下一個顯示內容的互動時間) 的縮寫
+INP,INP,INP 是 Interaction to Next Paint (與下一個顯示內容的互動時間) 的縮寫。
 Interaction to Next Paint,與下一個顯示內容的互動時間,
-CLS,CLS,CLS 是 Cumulative Layout Shift (累計版面配置位移) 的縮寫
+CLS,CLS,CLS 是 Cumulative Layout Shift (累計版面配置位移) 的縮寫。
 Cumulative Layout Shift,累計版面配置位移,
-FCP,FCP,FCP 是 First Contentful Paint (首次顯示內容所需時間) 的縮寫
+FCP,FCP,FCP 是 First Contentful Paint (首次顯示內容所需時間) 的縮寫。
 First Contentful Paint,首次顯示內容所需時間,
 Speed Index,速度指標,
 namespace,命名空間,
 packet,封包,網際網路資料傳輸時使用
 Packet Sniffing,封包偵測,網際網路資料傳輸時使用
 Hash Message Authentication Code,金鑰雜湊訊息驗證碼,
-HMAC,HMAC,HMAC 是 Hash Message Authentication Code (金鑰雜湊訊息驗證碼) 的縮寫
+HMAC,HMAC,HMAC 是 Hash Message Authentication Code (金鑰雜湊訊息驗證碼) 的縮寫。
 referrer,參照連結網址,適用於網站分析 (例如 Google Analytics)，即經由其他來源 (例如透過第三方網域的連結) 來到網站的流量區隔。
 referrer,推薦連結來源網址,適用於網路廣告 (例如 Google Ads)，即透過連結將訪客連到網站的網頁，也就是使用者到達廣告目標網頁前所在的網頁。
-rich results,複合式搜尋結果,
+rich results,複合式搜尋結果,Rich Result 已取代 Rich Card 及 Rich Snippet 這 2 個字彙。
+rich card,複合式搜尋結果,舊稱為「複合式資訊卡」，但是 Rich Result 已取代 Rich Card 及 Rich Snippet 這 2 個字彙，因此使用與 Rich Result 一樣的「複合式搜尋結果」譯文。
+credential,憑證,
+authorization,授權,
+mailing list,郵寄清單,
+tweak,調校,
+DoS,阻斷服務,
+Denial of Service,阻斷服務,
+DDoS,分散式阻斷服務,
+Distributed Denial of Service,分散式阻斷服務,
+control sequence,控制碼,
+instantiate,具現化,在物件導向程式設計中建立物件的執行個體。
+United States Virgin Islands,美屬維爾京群島,洲、國家/地區、城市名稱
+US Virgin Islands,美屬維爾京群島,洲、國家/地區、城市名稱
+Occitania,奧克西塔尼亞,洲、國家/地區、城市名稱
+Catalonia,加泰羅尼亞,洲、國家/地區、城市名稱
+Basque Country,巴斯克自治區,洲、國家/地區、城市名稱
+Wales,威爾斯,洲、國家/地區、城市名稱
+Western Samoa,西薩摩亞,洲、國家/地區、城市名稱
+CSRF,CSRF,一般來說，CSRF 會是 Cross-Site Request Forgery (跨網站偽造要求) 的縮寫。
+Cross Site Request Forgery,跨網站偽造要求,
+Cross-Site Request Forgery,跨網站偽造要求,
+Strict Transport Security,嚴格傳輸安全性,
+Strict-Transport-Security,嚴格傳輸安全性,
+Kurdish (Kurmanji),北庫德文,語言名稱，介面中稱文不稱語
+Kurmanji,北庫德文,語言名稱，介面中稱文不稱語
+Sesotho,賴索托文,語言名稱，介面中稱文不稱語
+Caption,媒體說明文字,用於媒體庫。
+Cookieless,無 Cookie,
+heatmap,熱視圖,
+heat map,熱視圖,
+microservice,微服務,使用與語言無關的 API 進行通訊的小型獨立程序，並可由多個微服務組成較大型的應用程式。
+Preview,預覽,
+AI,AI,一般來說，AI 會是 Artificial Intelligence (人工智慧) 的縮寫。
+AI,人工智慧,一般來說，AI 會是 Artificial Intelligence (人工智慧) 的縮寫。
+Artificial Intelligence,人工智慧,Artificial Intelligence (人工智慧) 的縮寫是 AI。
+LLM,LLM,一般來說，LLM 會是 Large Language Model (大型語言模型) 的縮寫。
+LLM,大型語言模型,一般來說，LLM 會是 Large Language Model (大型語言模型) 的縮寫。
+Large Language Model,大型語言模型,Large Language Model (大型語言模型) 的縮寫是 LLM。
+Saint Barthelemy,聖巴泰勒米,洲、國家/地區、城市名稱
+Aland Islands,奧藍群島,洲、國家/地區、城市名稱
+Cocos Islands,可可斯群島,洲、國家/地區、城市名稱
+CMP,CMP,一般來說，CMP 會是 Consent Management Platform (同意聲明管理平台) 的縮寫。
+CMP,同意聲明管理平台,一般來說，CMP 會是 Consent Management Platform (同意聲明管理平台) 的縮寫。
+Consent Management Platform,同意聲明管理平台,Consent Management Platform (同意聲明管理平台) 的縮寫是 CMP。
+mirror,鏡像,
+Search Intent,搜尋意圖,
+Gujurati,古加拉特文,語言名稱，介面中稱文不稱語
